@@ -8,7 +8,7 @@ The task is to develop two APIs for user registration and login.
 **Language/Framework**: You may use NodeJs/Java/Python, but we encourage you to do it in NodeJs.
 
 
-**Registration API:** \
+### Registration API:
 Here are the details for registration api:
 - API endpoint should be `/api/v1/registration`
 - API endpoint should accept only HTTP POST requests
@@ -35,7 +35,7 @@ Here are the details for registration api:
 - (Optional) Store the password as Hash. You can use bcrypt([NodeJs Package](https://www.npmjs.com/package/bcrypt),[Python Package](https://pypi.org/project/bcrypt/)) to generate the hash.
 
 
-**Sign In API:**\
+### Sign In API
 Here are the details for Sign In api:
 - API endpoint should be `/api/v1/signin`
 - API endpoint should accept only HTTP POST requests
@@ -60,7 +60,7 @@ Here are the details for Sign In api:
   - Command to add your changes `git add ./candidate1/`
   - Command to commit your changes: `git commit -m 'Source code for Candidate 1'`
 - Push your branch, Command to push the code:`git push origin test_candidate1`
-- Lastly, email `pobitro@etlimited.net` to notify that you have submitter your code.
+- Lastly, email `pobitro@etlimited.net` to notify that you have submitted your code.
 
 
 If you don't know GitHub or have difficulty pushing the code in GitHub then zip the source code(without dependency packages) and email to `pobitro@etlimited.net`.
