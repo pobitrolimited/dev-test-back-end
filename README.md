@@ -1,6 +1,11 @@
 # Developer evaluation Test
 The purpose of this test is to get to know more about technical capabilities of the candidate. 
 
+## Things we will be observing
+- **Completion of the task. We expect you to complete the task but we encourage you to submit if you have partially completed.**
+- **You have done it on your own. No one should help you on this.**
+- Code readability, add comments in the code so that others can understand.
+- Code optimization, minimize duplicate code.
 
 ## Back-End Tasks
 The task is to develop two APIs for user registration and login. 
