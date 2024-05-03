@@ -57,8 +57,6 @@ Here are the details for Sign In api:
 - Add comments in the code.
 
 
-If you don't know GitHub or have difficulty pushing the code in GitHub then zip the source code(without dependency packages) and email to `pobitro@etlimited.net`.
-
 ## Task 2: Programming 
 **Problem 1** \
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. \
@@ -121,5 +119,9 @@ Output: false
   - Command to commit your changes: `git commit -m 'Source code for Candidate 1'`
 - Push your branch, Command to push the code:`git push origin test_candidate1`
 - Lastly, email `info@etlimited.net` to notify that you have submitted your code.
+
+
+If you don't know GitHub or have difficulty pushing the code in GitHub then zip the source code(without dependency packages) and email to `info@etlimited.net`.
+
 
 
