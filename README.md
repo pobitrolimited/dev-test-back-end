@@ -56,22 +56,11 @@ Here are the details for Sign In api:
 - The API should return HTTP status `200` if the user is found in `users.json` file. If user is not found then return HTTP status `401`. 
 - Add comments in the code.
 
-### How To Submit Your Code
-- Clone this github project in your local. You may clone the repository from GitHub UI or use this command (`git clone https://github.com/pobitrolimited/dev-test-back-end.git`)
-- Create a branch with your name. Command to create branch: `git checkout -b test_candidate1`
-- Create a separate directory on the root of the repository, like `dev-test-back-end/candidate1/`. 
-- Add all your code in that directory. 
-- Commit all the changes. 
-  - Command to add your changes `git add ./candidate1/`
-  - Command to commit your changes: `git commit -m 'Source code for Candidate 1'`
-- Push your branch, Command to push the code:`git push origin test_candidate1`
-- Lastly, email `pobitro@etlimited.net` to notify that you have submitted your code.
-
 
 If you don't know GitHub or have difficulty pushing the code in GitHub then zip the source code(without dependency packages) and email to `pobitro@etlimited.net`.
 
 ## Task 2: Programming 
-**Problem 1**
+**Problem 1** \
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. \
 You may assume that each input would have exactly one solution, and you may not use the same element twice. \
 You can return the answer in any order. 
@@ -95,7 +84,7 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 
-**Problem 2**
+**Problem 2** \
 Given a string `s` containing just the characters `(`, `)`, `{`, `}`, `[` and `]`, determine if the input string is valid.
 
 An input string is valid if:
@@ -122,6 +111,15 @@ Input: s = "(]"
 Output: false
 ```
 
-
+### How To Submit Your Code
+- Clone this github project in your local. You may clone the repository from GitHub UI or use this command (`git clone https://github.com/pobitrolimited/dev-test-back-end.git`)
+- Create a branch with your name. Command to create branch: `git checkout -b test_candidate1`
+- Create a separate directory on the root of the repository, like `dev-test-back-end/candidate1/`. 
+- Add all your code in that directory. 
+- Commit all the changes. 
+  - Command to add your changes `git add ./candidate1/`
+  - Command to commit your changes: `git commit -m 'Source code for Candidate 1'`
+- Push your branch, Command to push the code:`git push origin test_candidate1`
+- Lastly, email `info@etlimited.net` to notify that you have submitted your code.
 
 
