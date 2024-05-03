@@ -7,7 +7,7 @@ The purpose of this test is to get to know more about technical capabilities of 
 - Code readability, add comments in the code so that others can understand.
 - Code optimization, minimize duplicate code.
 
-## Back-End Tasks
+## Tasks 1
 The task is to develop two APIs for user registration and login. 
 
 **Language/Framework**: You may use NodeJs/Java/Python, but we encourage you to do it in NodeJs.
@@ -70,6 +70,57 @@ Here are the details for Sign In api:
 
 If you don't know GitHub or have difficulty pushing the code in GitHub then zip the source code(without dependency packages) and email to `pobitro@etlimited.net`.
 
+## Task 2: Programming 
+**Problem 1**
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. \
+You may assume that each input would have exactly one solution, and you may not use the same element twice. \
+You can return the answer in any order. 
+
+Example 1:
+```
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+
+Example 2:
+```
+Input: nums = [3,2,4], target = 6
+Output: [1,2]
+```
+
+Example 3:
+```
+Input: nums = [3,3], target = 6
+Output: [0,1]
+```
+
+**Problem 2**
+Given a string `s` containing just the characters `(`, `)`, `{`, `}`, `[` and `]`, determine if the input string is valid.
+
+An input string is valid if:
+
+1. Open brackets must be closed by the same type of brackets.
+2. Open brackets must be closed in the correct order.
+3. Every close bracket has a corresponding open bracket of the same type.
+
+**Example 1:**
+```
+Input: s = "()"
+Output: true
+```
+
+**Example 2:**
+```
+Input: s = "()[]{}"
+Output: true
+```
+
+**Example 3:**
+```
+Input: s = "(]"
+Output: false
+```
 
 
 
