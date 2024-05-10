@@ -167,15 +167,10 @@ Output: false
 ```
 
 ### How To Submit Your Code
-- Clone this github project in your local. You may clone the repository from GitHub UI or use this command (`git clone https://github.com/pobitrolimited/dev-test-back-end.git`)
-- Create a branch with your name. Command to create branch: `git checkout -b test_candidate1`
-- Create a separate directory on the root of the repository, like `dev-test-back-end/candidate1/`. 
-- Add all your code in that directory. 
-- Commit all the changes. 
-  - Command to add your changes `git add ./candidate1/`
-  - Command to commit your changes: `git commit -m 'Source code for Candidate 1'`
-- Push your branch, Command to push the code:`git push origin test_candidate1`
-- Lastly, email `info@etlimited.net` to notify that you have submitted your code.
+- Create a directory/folder in your computer. Name the folder with your name. If your name is `Ab. Cde Fghi`, the folder name will be `ab_cde_fghi`.
+- Create separate directory for each task, like for task1, `ab_cde_fghi/task1` and for task2 `ab_cde_fghi/task2`
+- Zip the entire ab_cde_fghi folder without any dependency packages/libraries.
+- Lastly, email zipped directory to `info@etlimited.net`  with Subject `Submission - Back-end Dev - <YOUR_NAME>`.
 
 
-If you don't know GitHub or have difficulty pushing the code in GitHub then zip the source code(without dependency packages) and email to `info@etlimited.net`.
+For any other difficulty contact us at `info@etlimited.net`.
