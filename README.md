@@ -7,7 +7,7 @@ The purpose of this test is to get to know more about technical capabilities of 
 - Code readability, add comments in the code so that others can understand.
 - Code optimization, minimize duplicate code.
 
-## Tasks 1
+## Tasks 1: Develop an API server
 The task is to develop two APIs for user registration and login. 
 
 **Language/Framework**: You may use NodeJs/Java/Python, but we encourage you to do it in NodeJs.
@@ -55,7 +55,7 @@ Here are the details for Sign In api:
 - The API should return HTTP status `200` if the user is found in `users.json` file. If user is not found then return HTTP status `401`. 
 - Add comments in the code.
 
-## Task 2: Design a database schema
+## Task 2: Design a database for an organization
 In this task you have to design a database for an organization's employee information management. You may design for relational database or NoSQL.  
 
 
@@ -104,7 +104,7 @@ There are services/applications which does the following queries:
 
 **Note that you should store information such a way that it will be optimized/fast read from database when any of the above questions are asked.**
 
-## Task 3: Programming 
+## Task 3: Programming Challenge
 We prefer you to code in JavaScript/NodeJs/TypeScript/Python/Java. But you may use any programming language if you want.
 
 ***We encourage you to submit partial solutions if you can't complete it.** 
